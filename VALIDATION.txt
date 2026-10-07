@@ -1,0 +1,1 @@
+Flask test-client checks passed: home page, 12 cards, internal section links, CSS, favicon, social image, health check and 404 for missing routes and app.py. External hosting and browser visual comparison have not been verified.

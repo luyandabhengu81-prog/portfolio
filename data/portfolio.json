@@ -1,0 +1,107 @@
+{
+  "projects": [
+    {
+      "number": "01",
+      "eyebrow": "GIS product design",
+      "title": "Housing application workflow prototype",
+      "description": "An end-to-end digital assessment experience that connects public intake, internal review, decision-making and applicant communication in one traceable workflow.",
+      "outcome": "31 connected workflow steps",
+      "tools": [
+        "Survey123",
+        "Workflow Manager",
+        "Dashboards",
+        "Experience Builder"
+      ],
+      "icon": "Workflow"
+    },
+    {
+      "number": "02",
+      "eyebrow": "Spatial storytelling",
+      "title": "The Spatial Journey",
+      "description": "A personal geospatial experience inspired by music-production interfaces—using maps, narrative and sound to tell a story of growth, place and creative identity.",
+      "outcome": "One story across multiple Esri experiences",
+      "tools": [
+        "ArcGIS Hub",
+        "Experience Builder",
+        "StoryMaps",
+        "Web maps"
+      ],
+      "icon": "Music2"
+    },
+    {
+      "number": "03",
+      "eyebrow": "Economic research",
+      "title": "Keynesianism & development economics",
+      "description": "Comparative honours research tracing where Keynesian and development-economic ideas converged and diverged across Ghana, South Korea, Brazil and India from 1945–1980.",
+      "outcome": "76% research result",
+      "tools": [
+        "Policy analysis",
+        "Comparative research",
+        "Academic writing",
+        "Economic history"
+      ],
+      "icon": "BookOpen"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2026 — Now",
+      "role": "GIS Intern",
+      "organisation": "Esri South Africa · Utilities",
+      "detail": "Building practical spatial solutions and workflow prototypes with ArcGIS Pro, Survey123, Dashboards, Experience Builder and Workflow Manager.",
+      "icon": "BriefcaseBusiness"
+    },
+    {
+      "date": "2025",
+      "role": "Bachelor of Economic Science Honours",
+      "organisation": "Economics · University of the Witwatersrand",
+      "detail": "Completed advanced work in econometrics, development economics and policy research, including a four-country honours research project.",
+      "icon": "GraduationCap"
+    },
+    {
+      "date": "2021 — 2022",
+      "role": "Mathematics Tutor",
+      "organisation": "Independent",
+      "detail": "Helped learners turn difficult mathematical ideas into clear, repeatable methods—an approach that still shapes how I build and communicate today.",
+      "icon": "BarChart3"
+    }
+  ],
+  "capabilities": [
+    {
+      "label": "Spatial products",
+      "icon": "Layers3",
+      "items": [
+        "ArcGIS Pro",
+        "Survey123 & XLSForm",
+        "Experience Builder",
+        "Workflow Manager",
+        "Dashboards",
+        "ArcGIS Hub & StoryMaps"
+      ]
+    },
+    {
+      "label": "Data & analysis",
+      "icon": "Database",
+      "items": [
+        "R & econometrics",
+        "Time-series modelling",
+        "Python",
+        "ArcGIS API for Python",
+        "Excel",
+        "Policy research"
+      ]
+    },
+    {
+      "label": "How I work",
+      "icon": "Code2",
+      "items": [
+        "Business analysis",
+        "Workflow design",
+        "Agile project thinking",
+        "Technical communication",
+        "Problem decomposition",
+        "Human-centred design"
+      ]
+    }
+  ]
+}
